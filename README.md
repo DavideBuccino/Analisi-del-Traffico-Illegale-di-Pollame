@@ -1,5 +1,5 @@
 🐔💣 Chickens Under Surveillance: Analisi del Traffico Illegale di Pollame
-In questo progetto, sviluppato con l’ausilio delle lezioni YouTube del Dott. Pietro Savastano, ho combinato Python e data visualization per esplorare uno scenario surreale quanto stimolante: il traffico internazionale di polli correlato ai crimini registrati nei diversi paesi.
+In questo progetto, sviluppato con l’ausilio delle lezioni YouTube del Dott. Piero Savastano, ho combinato Python e data visualization per esplorare uno scenario surreale quanto stimolante: il traffico internazionale di polli correlato ai crimini registrati nei diversi paesi.
 📌 Strumenti utilizzati:
 - Librerie Python: pandas, seaborn, matplotlib, os
 - Fonti dati:
